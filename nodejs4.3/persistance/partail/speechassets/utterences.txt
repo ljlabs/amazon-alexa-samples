@@ -1,0 +1,16 @@
+GetJoke I dont have a joke
+GetJoke the joke is {Hour of code. | SpokenJoke}
+GetJoke listen to this {Hour of code. | SpokenJoke}
+GetJoke ok so {Hour of code. | SpokenJoke}
+GetJoke this is funny {Hour of code. | SpokenJoke}
+GetJoke the joke {Hour of code. | SpokenJoke}
+GetJoke ok {Hour of code. | SpokenJoke}
+
+
+FunnyLevel the joke is a {laughLevel}
+FunnyLevel its a  {laughLevel}
+FunnyLevel its  {laughLevel}
+FunnyLevel on a scale its {laughLevel}
+FunnyLevel on a scale of one to ten its a {laughLevel}
+FunnyLevel it was a  {laughLevel}
+FunnyLevel it was  {laughLevel}
