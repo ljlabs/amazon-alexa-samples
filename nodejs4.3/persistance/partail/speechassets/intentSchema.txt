@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "GetJoke",
+      "slots": [
+        {
+          "name": "SpokenJoke",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "FunnyLevel",
+      "slots": [
+        {
+          "name": "laughLevel",
+          "type": "NUMBER"
+        }
+      ]
+    }
+    
+  ]
+}
